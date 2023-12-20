@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "definite integral", "definite integral\definite integral.csproj", "{EB9EB7F4-3D1F-4011-9D79-A6AB4DC3574A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB9EB7F4-3D1F-4011-9D79-A6AB4DC3574A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB9EB7F4-3D1F-4011-9D79-A6AB4DC3574A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB9EB7F4-3D1F-4011-9D79-A6AB4DC3574A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB9EB7F4-3D1F-4011-9D79-A6AB4DC3574A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1E6AC9C-8A93-4106-BE24-7BF01EB74ADE}
+	EndGlobalSection
+EndGlobal
